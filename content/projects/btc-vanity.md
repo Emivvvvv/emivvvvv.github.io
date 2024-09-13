@@ -8,6 +8,7 @@ tags:
   - Rust
   - Vanity
   - BitcoinAddress
+  - Projects
 ---
 [[https://github.com/Emivvvvv/btc-vanity|btc-vanity]] is A Bitcoin vanity address generator written with the Rust programming language.
 <br>
@@ -44,7 +45,7 @@ let's dive into some core implementations.
 
 #### keys_and_addresses.rs
 
-[[secp256k1]] refers to the parameters of the elliptic curve used in Bitcoin's public-key cryptography. Currently Bitcoin uses secp256k1. So we also need to use it. The main struct used in `keys_and_addresses.rs` is `KeysAndAdress` struct. Here we use `bitcoin::crypto::key` for storing keys and normal good old friend `String` for our compressed address that will have out vanity string.
+secp256k1 refers to the parameters of the elliptic curve used in Bitcoin's public-key cryptography. Currently, Bitcoin uses secp256k1. So we also need to use it. The main struct used in `keys_and_addresses.rs` is `KeysAndAdress` struct. Here we use `bitcoin::crypto::key` for storing keys and normal good old friend `String` for our compressed address that will have out vanity string.
 ```rust
 pub struct KeysAndAddress {  
     private_key: PrivateKey,  
