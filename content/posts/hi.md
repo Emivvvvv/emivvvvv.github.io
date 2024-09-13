@@ -17,4 +17,4 @@ I am thinking of writing about topics that I especially want to grasp well and f
 
 Anyway, that's it for now. Peace out! For anyone who read till the end, here is a gift for you, another pro yapper like me.
 
-![another pro yapper](images/yapper_car.JPG)
+![another pro yapper](yapper_car.JPG)
