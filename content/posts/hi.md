@@ -7,7 +7,7 @@ tags:
 ---
 Today, from nowhere, I decided to have a website and create some content. Why am I doing this? I don't know. Do I need a reason to do this? No! So, I said why not and here we go.
 
-This website is built using [[https://github.com/jackyzha0/quartz|Quartz]]. I saw Quartz while stalking random people's GitHub pages, and I liked the idea. Personally, I'm not that into frontend (I hate it). I learned but did not use it a lot and forgot everything I knew. Tbh, I don't want to know it either, so it's fine. 
+This website is built by using [[https://github.com/jackyzha0/quartz|Quartz]]. I saw Quartz while stalking random people's GitHub pages, and I liked the idea. Personally, I'm not that into frontend (I hate it). I learned but did not use it a lot and forgot everything I knew. Tbh, I don't want to know it either, so it's fine. 
 
 For personal websites. I like it basic. Simple is enough for me. I don't need some super complex stuff on my dumbass website, a static and minimalistic one is more than enough. I had only an HTML website before, and I still like the idea. It's simple, and most importantly, it does the job. With being OK to a static website, I can host my website on GitHub Pages, and thanks to that, I don't need to put my dumbass website to a "komputer" to run my crappy `i-am-no-use-at-all.js` or `u-dont-need-me.js` javascript files.
 

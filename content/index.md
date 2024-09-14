@@ -2,26 +2,24 @@
 title: whoami
 ---
 ## About me
-Hi, y'all! My name is Emirhan. I'm a Computer Engineering student who is interested in distributed systems, optimization, efficiency, and low-level system programming. I'm passionate about Bitcoin and I'm an enthusiastic Rustacean 🦀. I also like C, Go, and Python. Currently, as a personal project, I'm working on writing my own bytecode lox interpreter. With my friends, we're building something cool for cafes and restaurants, it's a secret for now 🤫, but I work on the backend side using Go and fiber framework.
+Hi y'all! My name is Emirhan. I'm a Computer Engineering student who is interested in distributed systems, optimization, efficiency, and low-level system programming. I'm passionate about Bitcoin and I'm an enthusiastic Rustacean 🦀. I also like C, Go, and Python. Currently, as a personal project, I'm working on writing my own bytecode lox interpreter. With my friends, we're building something cool for cafes and restaurants, it's a secret for now 🤫, but I work on the backend side using Go and fiber framework.
 ## Projects
 
 #### PERSONAL PROJECTS
-[[https://github.com/Emivvvvv/btc-vanity|btc-vanity]]: A Bitcoin vanity address generator library written with the Rust (+8800 downloads).
+[[btc-vanity]]: A Bitcoin vanity address generator library written with Rust (+8800 downloads).
 <br>
-also see my blog post about [[btc-vanity]].
+[[https://github.com/Emivvvvv/rlox/tree/main/rlox-ast|rlox-ast]]: A lox language interpreter written with Rust. 
 <br>
-[[https://github.com/Emivvvvv/rlox/tree/main/rlox-ast|rlox-ast]]: A lox language interpreter written with the Rust. 
+[[https://github.com/Emivvvvv/rustychain|RustyChain]]: A basic blockchain implementation written with Rust.
 <br>
-[[https://github.com/Emivvvvv/AmongOS|AmongOS]]: A small operating system written with the Rust.
+[[https://github.com/Emivvvvv/AmongOS|AmongOS]]: A small operating system written with Rust.
 <br>
-[[https://github.com/Emivvvvv/rustychain|RustyChain]]: A basic blockchain implementation written with the Rust programming language.
-<br>
-[[https://github.com/Emivvvvv/MemoryCardsGame|MemoryCardGame]]: Memory card game written with JAVA.
+[[https://github.com/Emivvvvv/MemoryCardsGame|MemoryCardGame]]: A Memory card game. Written as [Software Development Methodologies](https://eng.yeditepe.edu.tr/en/computer-engineering-department/courses/2643) course term project with Java.
 <br>
 #### GROUP PROJECTS
-[[https://github.com/Emivvvvv/P232|P232]]: A C programming language preprocessor to perform arithmetic operations on matrices.
+[[https://github.com/Emivvvvv/P232|P232]]: A C programming language preprocessor to perform arithmetic operations on matrices.  Written as [Systems Programming](https://eng.yeditepe.edu.tr/en/computer-engineering-department/courses/2711) course term project with C.
 <br>
-[[https://press.um.si/index.php/ump/catalog/view/880/1284/4213|tutor-furhat]]: ethnically personalized tutor skill for robot Furhat. It has human-like appearances to be more anthropomorphic.
+[[https://press.um.si/index.php/ump/catalog/view/880/1284/4213|tutor-furhat]]: Ethnically personalized tutor skill for robot Furhat written with Kotlin. Implementation is close-source. This skill is developed for our group research.
 <br>
 <br>
 *For other projects you can visit my [GitHub](https://github.com/Emivvvvv) page*
