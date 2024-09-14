@@ -8,18 +8,20 @@ Hi y'all! My name is Emirhan. I'm a Computer Engineering student who is interest
 #### PERSONAL PROJECTS
 [[btc-vanity]]: A Bitcoin vanity address generator library written with Rust (+8800 downloads).
 <br>
-[[https://github.com/Emivvvvv/rlox/tree/main/rlox-ast|rlox-ast]]: A lox language interpreter written with Rust. 
+[[https://github.com/Emivvvvv/rlox/tree/main/rlox-ast|rlox-ast]]: Lox language interpreter, written with Rust. 
 <br>
-[[https://github.com/Emivvvvv/rustychain|RustyChain]]: A basic blockchain implementation written with Rust.
+[[https://github.com/Emivvvvv/rustychain|RustyChain]]: Basic blockchain implementation, written with Rust.
 <br>
-[[https://github.com/Emivvvvv/AmongOS|AmongOS]]: A small operating system written with Rust.
+[[https://github.com/Emivvvvv/AmongOS|AmongOS]]: Small operating system, written with Rust.
 <br>
-[[https://github.com/Emivvvvv/MemoryCardsGame|MemoryCardGame]]: A Memory card game. Written as [Software Development Methodologies](https://eng.yeditepe.edu.tr/en/computer-engineering-department/courses/2643) course term project with Java.
+[[https://github.com/Emivvvvv/TinyMIPS|TinyMIPS]]: Simple processor with a custom instruction set, written with Verilog.
+<br>
+[[https://github.com/Emivvvvv/MemoryCardsGame|MemoryCardGame]]: A Memory card game, written with Java.
 <br>
 #### GROUP PROJECTS
-[[https://github.com/Emivvvvv/P232|P232]]: A C programming language preprocessor to perform arithmetic operations on matrices.  Written as [Systems Programming](https://eng.yeditepe.edu.tr/en/computer-engineering-department/courses/2711) course term project with C.
+[[https://github.com/Emivvvvv/P232|P232]]: A C programming language preprocessor to perform arithmetic operations on matrices, written with C.
 <br>
-[[https://press.um.si/index.php/ump/catalog/view/880/1284/4213|tutor-furhat]]: Ethnically personalized tutor skill for robot Furhat written with Kotlin. Implementation is close-source. This skill is developed for our group research.
+[[https://press.um.si/index.php/ump/catalog/view/880/1284/4213|tutor-furhat]]: Ethnically personalized tutor skill for robot Furhat, written with Kotlin. Implementation is close-source. This skill is developed for our group research.
 <br>
 <br>
 *For other projects you can visit my [GitHub](https://github.com/Emivvvvv) page*
