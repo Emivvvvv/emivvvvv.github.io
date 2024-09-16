@@ -35,8 +35,8 @@ Hi y'all! My name is Emirhan. I'm a Computer Engineering student who is interest
 ## CV
 If you want to see more information about me, here is the Google Docs link for my [[https://docs.google.com/document/d/1GJv5YIhUu0OUGBkjHfZ9EhwHav6tjh6J/edit?usp=sharing&ouid=116070675911539536391&rtpof=true&sd=true|CV]]. 
 
-## Recommendations
-[[recommendations/mirjam-de-haas|Mirjam de Haas - Recommendation]]
+## Recommendation Letters
+[[mirjam-de-haas|Mirjam de Haas - Recommendation Letter]]
 
 ## Publications
 VAN, A., HOEF, S. L., SMIT, K., MIĘTKIEWICZ, Ł., [TALA, E.](https://scholar.google.com/citations?user=uiUpIB0AAAAJ&hl=tr), IWASHIMA, F. S. S., ... & DE HAAS, M. (2024).  
