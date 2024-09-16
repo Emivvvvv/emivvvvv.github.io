@@ -88,7 +88,7 @@ She let it slip away, away, away
 
 ### Often
 
-<img src="/images/bbtm.PNG" alt="Beauty Behind The Madness">
+![Beauty Behind The Madness](bbtm.png)
 
 Can't relate to this song, but still wanted to mention it because it uses Nükhet Duru’s “Ben Sana Vurgunum” sample which is a Turkish song. Hearing Turkish is a unique experience for me from a weekend song.
 
@@ -108,7 +108,7 @@ Ooh yeah...
 
 ### A Lonely Night
 
-<img src="/images/starboy.PNG" alt="I'm not a mf starboy">
+![I'm not a mf starboy](starboy.png)
 
 This is another toxic relationship song that we have. Some people have something with another to fill their loneliness temporarily. One person might feel strongly, while the other doesn't, which can lead to a short situationship. One might want something more, while the other just wants to have fun or escape their loneliness caused by someone else. This song shows that kind of situation well.
 
@@ -161,7 +161,7 @@ If you also had something like this or might have. Learn your lesson mate. Just 
 
 # My Dear Melancholy
 
-<img src="/images/mdm.PNG" alt="My Dear Melancholy,">
+![My Dear Melancholy,](mdm.png)
 
 Ooh boy, this shit hits hard every time, whenever, wherever. He tells the story of breaking up with Selena and talks about his ex, Bella. My Dear Melancholy is not an album but an EP. I love this EP a lot, it has a special place in my heart as "Call Out My Name" is one of the songs that made me connected with The Weeknd. For My Dear Melancholy, my fav song is Call Out My Name, but also the end of I Was Never There hits hard.
 ### Call Out My Name
