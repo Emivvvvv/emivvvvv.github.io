@@ -88,7 +88,7 @@ She let it slip away, away, away
 
 ### Often
 
-![Beauty Behind The Madness](bbtm.png)
+![Beauty Behind The Madness](../images/bbtm.png)
 
 Can't relate to this song, but still wanted to mention it because it uses Nükhet Duru’s “Ben Sana Vurgunum” sample which is a Turkish song. Hearing Turkish is a unique experience for me from a weekend song.
 
