@@ -87,7 +87,7 @@ She let it slip away, away, away
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5oAOK7xCJD8hzp9PuxjULL?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Often
-![bbtm](bbtm.PNG)
+![bbtm](images/bbtm.PNG)
 
 Can't relate to this song, but still wanted to mention it because it uses Nükhet Duru’s “Ben Sana Vurgunum” sample which is a Turkish song. Hearing Turkish is a unique experience for me from a weekend song.
 
@@ -106,7 +106,7 @@ Ooh yeah...
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4PhsKqMdgMEUSstTDAmMpg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### A Lonely Night
-![I'm not a mf starboy](starboy.PNG)
+![I'm not a mf starboy](images/starboy.PNG)
 This is another toxic relationship song that we have. Some people have something with another to fill their loneliness temporarily. One person might feel strongly, while the other doesn't, which can lead to a short situationship. One might want something more, while the other just wants to have fun or escape their loneliness caused by someone else. This song shows that kind of situation well.
 
 >Why would you wanna bring somethin' between us?
@@ -157,7 +157,7 @@ If you also had something like this or might have. Learn your lesson mate. Just 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2LBqCSwhJGcFQeTHMVGwy3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # My Dear Melancholy
-![mdm](mdm.PNG)
+![mdm](images/mdm.PNG)
 
 Ooh boy, this shit hits hard every time, whenever, wherever. He tells the story of breaking up with Selena and talks about his ex, Bella. My Dear Melancholy is not an album but an EP. I love this EP a lot, it has a special place in my heart as "Call Out My Name" is one of the songs that made me connected with The Weeknd. For My Dear Melancholy, my fav song is Call Out My Name, but also the end of I Was Never There hits hard.
 ### Call Out My Name
