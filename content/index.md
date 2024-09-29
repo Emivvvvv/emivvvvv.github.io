@@ -24,13 +24,15 @@ Hi y'all! My name is Emirhan. I'm a Computer Engineering student who is interest
 [[https://press.um.si/index.php/ump/catalog/view/880/1284/4213|tutor-furhat]]: Ethnically personalized tutor skill for robot Furhat, written with Kotlin. Implementation is close-source. This skill is developed for our group research.
 <br>
 <br>
-*For other projects you can visit my [GitHub](https://github.com/Emivvvvv) page*
+*For other projects, you can visit my [GitHub](https://github.com/Emivvvvv) page*
 
 ## Highlights
 
 [[hi|Hello, World!]] - Why am I here? What is this website for?
 <br>
 [[btc-vanity]] - A multithread vanity address finder, ofc written with Rust.
+<br>
+[[python-for-interviews-cheatsheet|Python for Interviews Cheatsheet]] - cheatsheet for cracking coding interviews.
 
 ## CV
 If you want to see more information about me, here is the Google Docs link for my [[https://docs.google.com/document/d/1GJv5YIhUu0OUGBkjHfZ9EhwHav6tjh6J/edit?usp=sharing&ouid=116070675911539536391&rtpof=true&sd=true|CV]]. 

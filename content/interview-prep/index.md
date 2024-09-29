@@ -1,6 +1,5 @@
 ---
-title: Posts
+title: Interview Prep
 draft: false
 tags:
-  - Blog
 ---

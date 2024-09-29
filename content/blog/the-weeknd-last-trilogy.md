@@ -1,5 +1,5 @@
 ---
-title: Before the "Hurry Up Tomorrow"
+title: There Are Three Chapters In This Tale
 draft: true
 tags:
   - Blog
@@ -14,6 +14,7 @@ tags:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/12INlMsFtBjyehNnawBv36?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+# Hurry Up Tomorrow (As far as we know)
+
 # The Idol Songs
 
-# Hurry Up Tomorrow (As far as we know)

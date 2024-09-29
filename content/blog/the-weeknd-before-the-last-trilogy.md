@@ -163,6 +163,8 @@ If you also had something like this or might have. Learn your lesson mate. Just 
 
 ![My Dear Melancholy,](mdm.png)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4qZBW3f2Q8y0k1A84d4iAO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Ooh boy, this shit hits hard every time, whenever, wherever. He tells the story of breaking up with Selena and talks about his ex, Bella. My Dear Melancholy is not an album but an EP. I love this EP a lot, it has a special place in my heart as "Call Out My Name" is one of the songs that made me connected with The Weeknd. For My Dear Melancholy, my fav song is Call Out My Name, but also the end of I Was Never There hits hard.
 ### Call Out My Name
 Ahh... There is too much to say about this song. Remember how I mentioned about my crappy love life? When I listened to this song with attention, It was like listening to myself. The song is about the time when Able and Selene broke up, and then he felt broken and depressed, I was living in a similar situation. I am not going to give too many details but I was inexperienced and she was someone I could easily say
@@ -378,7 +380,7 @@ You are sufferin', no more
 'Cause I held you down when you were sufferin'  
 You were sufferin'
 
-And then he gives the signals of he's going to change. We will be seeing how Abel going to change in the [[content/posts/the-weeknd-last-trilogy|last trilogy]].
+And then he gives the signals of he's going to change. We will be seeing how Abel going to change in the [[the-weeknd-last-trilogy|last trilogy]].
 
 >And I'ma fuck the pain away, and I know I'll be okay  
 They said our love is just a game, I don't care what they say  
