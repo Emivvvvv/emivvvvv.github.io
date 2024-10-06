@@ -11,7 +11,7 @@ As I mentioned in [[python-for-interviews-cheatsheet|Python for Interviews Cheat
 
 NeetCode is originally a YouTube page that solves coding problems and gives some tutorials for improvement. NeetCode 150 specifically is the 150 LeetCode problems that he thinks are the most essential ones. NeetCode also has a website for preparing interviews which has some paid and some free content. I'll be focusing on free ones. On the website, there is a [[https://neetcode.io/roadmap|roadmap]] section that has the 150 questions that he mentioned with a suggested solving order. 
 
-![NeetCode 150 roadmap](neetcode-roadmap.PNG)
+![NeetCode 150 roadmap](../images/neetcode-roadmap.PNG)
 I'll be following this. 
 
 So let's go with the roadmap's order.
