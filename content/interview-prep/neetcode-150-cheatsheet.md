@@ -76,6 +76,32 @@ This will create a list of the specified `length` with all elements initialized 
 
 ## Two Pointers
 
+Two Pointer questions reveal themselves pretty easily. It might be a two-pointer problem if you need to check two or more values simultaneously in an array.
+
+For **palindrome** problems usage of `.isalnum()` could be needed.
+
+```python
+s[i].isalnum()
+```
+
+Sometimes you need to sort the array first, you can do that like this but remember this might have O(nlogn) or O(n^2) depending on how the algorithm is implemented. Mentioning this might be a plus point.
+
+```python
+nums.sort()
+```
+
+If you also need the index of the value, you can achieve this by using `enumerate`
+
+```python
+for i, a in enumerate(nums):
+```
+
+For the default min value, usage of `float("-inf")` will cover you if you're also dealing with negative numbers, otherwise, `0` will do the job.
+
+```python
+max_water = float("-inf")
+```
+
 ## Binary Search
 
 ## Sliding Window
