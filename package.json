@@ -17,8 +17,11 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
-  },
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+
+    "build": "npx quartz build && cp static/waybackverify.txt public/waybackverify.txt"
+  }
+,
   "engines": {
     "npm": ">=9.3.1",
     "node": "20 || >=22"
