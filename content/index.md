@@ -1,12 +1,17 @@
 ---
 title: whoami
 ---
-## About me
-Hi y'all! My name is Emirhan. I'm a Computer Engineering student who is interested in distributed systems, optimization, efficiency, and low-level system programming. I'm passionate about Bitcoin and I'm an enthusiastic Rustacean 🦀. I also like C, Go, and Python. Currently, as a personal project, I'm working on writing my own bytecode lox interpreter. With my friends, we're building something cool for cafes and restaurants, it's a secret for now 🤫, but I work on the backend side using Go and fiber framework.
+Hi y’all, I'm Emirhan — a Rustacean v_(°v°)\_v and senior Computer Engineering student at Yeditepe University, currently interning at smartPulse.  
+  
+I’m into systems-level programming, distributed systems, P2P, and cryptography. Also a fan of F1, chess, photography, and cycling.
+
+[[https://ratzilla.emiv.online|Also see Ratzilla version]]
 ## Projects
 
 #### PERSONAL PROJECTS
-[[btc-vanity]]: A Bitcoin vanity address generator library written with Rust. (+13,000 downloads)
+[[btc-vanity]]: A Bitcoin vanity address generator library written with Rust. (+25,000 downloads)
+<br>
+[[https://github.com/Emivvvvv/deloxide|Deloxide]] scrubs your threads clean by detecting deadlocks in real time—keeping your system smooth, safe, and corrosion-free. 🦀🧼🔒
 <br>
 [[https://github.com/Emivvvvv/rlox/tree/main/rlox-ast|rlox-ast]]: Lox language interpreter, written with Rust. 
 <br>
